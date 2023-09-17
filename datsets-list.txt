@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Sep 17 15:39:19 2023
+
+@author: roipa
+
+just a list of datasources 
+"""
+
+https://www.kaggle.com/datasets
+
+https://www.madronavl.com/launchable/launchable-datasets-to-kickstart-your-ai-startup-journey
