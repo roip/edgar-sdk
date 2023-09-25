@@ -10,3 +10,8 @@ just a list of datasources
 https://www.kaggle.com/datasets
 
 https://www.madronavl.com/launchable/launchable-datasets-to-kickstart-your-ai-startup-journey
+
+Fred 
+https://fred.stlouisfed.org/docs/api/fred/
+
+
